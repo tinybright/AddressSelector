@@ -1,41 +1,15 @@
 ---
-description: just first page
+description: page1 des
 ---
 
-# Initial page
+# pag1
 
-## Getting Super Powers -First
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
-{% tabs %}
-{% tab title="" %}
 ```
-ssssssss
-```
-
-[sssss](http://www.baidu.com)
-{% endtab %}
-
-{% tab title="Diff" %}
-```diff
 $ give me super-powers
-```
-{% endtab %}
-{% endtabs %}
-
-> ssssss
->
-> * [ ] ssss
-> * [ ]
-
-sss
-
-
-
-```bash
-sksksksk
-
 ```
 
 {% hint style="info" %}
@@ -50,18 +24,6 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
-
-\`\`
-
-\#\#\#\# 333
-
-{% page-ref page="untitled.md" %}
-
-
-
-'' ssss'' 
-
-''333"
 
 
 
